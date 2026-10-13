@@ -1,0 +1,20 @@
+{
+  "name": "smartpim-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SmartPIM AI Backend - Product Information Management with WooCommerce & Agentic AI",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node src/tests/pim.test.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^9.11.2",
+    "uuid": "^11.1.0"
+  }
+}

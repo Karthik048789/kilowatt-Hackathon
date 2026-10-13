@@ -1,0 +1,2638 @@
+{
+  "products": [
+    {
+      "id": "prod_1",
+      "name": "Aurora Smart Ambient LED Strip (5M)",
+      "sku": "AUR-LGT-5M",
+      "price": 49.99,
+      "regularPrice": 59.99,
+      "category": "Smart Home & Lighting",
+      "shortDescription": "App-controlled RGBIC ambient lighting strip with music synchronization.",
+      "description": "The Aurora Smart Ambient LED Strip (5M) is engineered to deliver exceptional performance and reliability. Crafted from premium materials to exacting standards, it offers superior functionality, modern aesthetics, and intuitive usability suited for everyday lifestyle and professional demands.",
+      "stockStatus": "instock",
+      "stockQuantity": 150,
+      "status": "publish",
+      "attributes": [
+        {
+          "name": "Build Quality",
+          "options": [
+            "Premium High-Durability Materials"
+          ]
+        },
+        {
+          "name": "Warranty",
+          "options": [
+            "1-Year Comprehensive Manufacturer Warranty"
+          ]
+        },
+        {
+          "name": "Standards",
+          "options": [
+            "CE, FCC, RoHS Certified"
+          ]
+        }
+      ],
+      "syncStatus": "synced",
+      "wooId": 1024,
+      "lastSyncedAt": "2026-10-13T10:41:42.463Z",
+      "createdAt": "2026-10-10T10:35:52.171Z",
+      "updatedAt": "2026-10-13T10:45:13.778Z",
+      "qualityScore": 100,
+      "issues": []
+    },
+    {
+      "id": "prod_2",
+      "name": "ErgoPro Ultra-Mesh Ergonomic Desk Chair",
+      "sku": "ERG-CHR-BLK",
+      "price": 289,
+      "regularPrice": 329,
+      "category": "Office & Furniture",
+      "shortDescription": "High-performance breathable mesh ergonomic task chair with 4D armrests.",
+      "description": "Engineered for all-day comfort and spine alignment. The ErgoPro chair features full Korean elastomeric breathable mesh, dynamic self-adjusting lumbar support, 4D multi-directional armrests, and a heavy-duty aluminum wheelbase tested up to 300 lbs.",
+      "stockStatus": "instock",
+      "stockQuantity": 42,
+      "status": "publish",
+      "attributes": [
+        {
+          "name": "Material",
+          "options": [
+            "Breathable Elastomer Mesh",
+            "Aluminum"
+          ]
+        },
+        {
+          "name": "Weight Capacity",
+          "options": [
+            "300 lbs / 136 kg"
+          ]
+        },
+        {
+          "name": "Warranty",
+          "options": [
+            "5 Years"
+          ]
+        }
+      ],
+      "syncStatus": "synced",
+      "wooId": 1025,
+      "lastSyncedAt": "2026-10-12T22:35:52.171Z",
+      "createdAt": "2026-10-09T10:35:52.171Z",
+      "updatedAt": "2026-10-12T22:35:52.171Z",
+      "qualityScore": 100,
+      "issues": []
+    },
+    {
+      "id": "prod_3",
+      "name": "SonicPulse Active Noise Cancelling Earbuds",
+      "sku": "AUD-EAR-ANC",
+      "price": 79.99,
+      "regularPrice": 99.99,
+      "category": "Audio & Electronics",
+      "shortDescription": "Compact wireless earbuds with ANC.",
+      "description": "Experience studio-grade acoustics with the SonicPulse Active Noise Cancelling Earbuds. Featuring active hybrid noise cancellation (up to -35dB), custom 10mm titanium drivers for deep bass, and dual beamforming microphones with AI wind reduction for crystal-clear calls. Includes IPX5 sweat resistance and up to 32 hours total playback with USB-C wireless charging case.",
+      "stockStatus": "instock",
+      "stockQuantity": 88,
+      "status": "draft",
+      "attributes": [
+        {
+          "name": "Noise Cancellation",
+          "options": [
+            "Hybrid Active Noise Cancelling (ANC)"
+          ]
+        },
+        {
+          "name": "Battery Life",
+          "options": [
+            "8h Playback + 24h Case (32h Total)"
+          ]
+        },
+        {
+          "name": "Water Resistance",
+          "options": [
+            "IPX5 Splashproof"
+          ]
+        }
+      ],
+      "syncStatus": "not_synced",
+      "wooId": null,
+      "lastSyncedAt": null,
+      "createdAt": "2026-10-11T10:35:52.171Z",
+      "updatedAt": "2026-10-13T10:41:21.285Z",
+      "qualityScore": 100,
+      "issues": []
+    },
+    {
+      "id": "prod_4",
+      "name": "HyperCharge 65W GaN Dual-Port Travel Charger",
+      "sku": "PWR-GAN-65W",
+      "price": 34.5,
+      "regularPrice": 39.99,
+      "category": "Electronics & Accessories",
+      "shortDescription": "Pocket-sized GaN III fast charger with USB-C and USB-A ports.",
+      "description": "Engineered with next-generation Gallium Nitride (GaN III) semiconductors, the HyperCharge 65W GaN Dual-Port Travel Charger delivers ultra-efficient, high-speed power delivery in a compact pocket footprint. Dual-port architecture supports simultaneous laptop and smartphone charging with intelligent temperature monitoring and universal voltage compatibility (100-240V).",
+      "stockStatus": "instock",
+      "stockQuantity": 210,
+      "status": "draft",
+      "attributes": [
+        {
+          "name": "Max Power",
+          "options": [
+            "65W Total"
+          ]
+        },
+        {
+          "name": "Ports",
+          "options": [
+            "1x USB-C PD 3.0",
+            "1x USB-A QC 4.0"
+          ]
+        }
+      ],
+      "syncStatus": "pending",
+      "wooId": null,
+      "lastSyncedAt": null,
+      "createdAt": "2026-10-12T10:35:52.171Z",
+      "updatedAt": "2026-10-13T10:41:21.290Z",
+      "qualityScore": 100,
+      "issues": []
+    },
+    {
+      "id": "prod_5",
+      "name": "HydroFlow Insulated Stainless Steel Bottle (1L)",
+      "sku": "HYD-BTL-1L",
+      "price": 24.95,
+      "regularPrice": 29.95,
+      "category": "Sports & Outdoor Hydration",
+      "shortDescription": "Vacuum insulated sports water bottle.",
+      "description": "Durable double-wall 18/8 food-grade stainless steel flask keeps beverages cold for 24 hours or piping hot for 12 hours. Sweat-free powder coat finish with leak-proof spout lid.",
+      "stockStatus": "instock",
+      "stockQuantity": 310,
+      "status": "publish",
+      "attributes": [
+        {
+          "name": "Capacity",
+          "options": [
+            "1000ml / 32oz"
+          ]
+        },
+        {
+          "name": "Thermal Retention",
+          "options": [
+            "24h Cold / 12h Hot"
+          ]
+        },
+        {
+          "name": "Material",
+          "options": [
+            "18/8 Pro-Grade Stainless Steel, BPA-Free"
+          ]
+        }
+      ],
+      "syncStatus": "not_synced",
+      "wooId": null,
+      "lastSyncedAt": null,
+      "createdAt": "2026-10-10T10:35:52.171Z",
+      "updatedAt": "2026-10-13T10:41:21.294Z",
+      "qualityScore": 100,
+      "issues": []
+    },
+    {
+      "id": "prod_6",
+      "name": "Quantum Pro Mechanical Keyboard RGB",
+      "sku": "KEY-MECH-PRO",
+      "price": 129.99,
+      "regularPrice": 155.99,
+      "category": "Computer Peripherals",
+      "shortDescription": "Compact 75% hot-swappable keyboard.",
+      "description": "Built for discerning typists and gamers alike, the Quantum Pro Mechanical Keyboard RGB features an aerospace-grade aluminum top plate, hot-swappable PCB, and sound-dampening silicone gaskets. Enjoy per-key RGB backlighting with dynamic software customization, seamless Bluetooth 5.1/2.4GHz wireless connectivity, and pre-lubed mechanical switches.",
+      "stockStatus": "instock",
+      "stockQuantity": 50,
+      "status": "draft",
+      "attributes": [
+        {
+          "name": "Layout",
+          "options": [
+            "75% Compact (84 Keys)"
+          ]
+        },
+        {
+          "name": "Switches",
+          "options": [
+            "Gateron Pro Yellow (Hot-Swappable)"
+          ]
+        }
+      ],
+      "syncStatus": "failed",
+      "wooId": null,
+      "lastSyncedAt": null,
+      "createdAt": "2026-10-08T10:35:52.171Z",
+      "updatedAt": "2026-10-13T10:41:21.297Z",
+      "qualityScore": 100,
+      "issues": []
+    },
+    {
+      "id": "prod_7",
+      "name": "AeroGlide Featherlight Trail Running Shoes",
+      "sku": "SHOE-TRAIL-01",
+      "price": 119,
+      "regularPrice": 139,
+      "category": "Footwear & Athletics",
+      "shortDescription": "All-terrain lightweight trail runners with responsive carbon-plate cushioning.",
+      "description": "Conquer tough terrain with the AeroGlide Trail Runners. Engineered with a rugged Vibram Megagrip lug outsole, water-resistant ripstop mesh upper, and high-rebound supercritical foam midsole for responsive propulsion across mud, gravel, and mountain trails.",
+      "stockStatus": "instock",
+      "stockQuantity": 65,
+      "status": "publish",
+      "attributes": [
+        {
+          "name": "Terrain",
+          "options": [
+            "Trail",
+            "Mountain",
+            "Mixed"
+          ]
+        },
+        {
+          "name": "Drop",
+          "options": [
+            "6mm"
+          ]
+        },
+        {
+          "name": "Weight",
+          "options": [
+            "245g (Size 9)"
+          ]
+        }
+      ],
+      "syncStatus": "synced",
+      "wooId": 1026,
+      "lastSyncedAt": "2026-10-13T02:35:52.171Z",
+      "createdAt": "2026-10-07T10:35:52.171Z",
+      "updatedAt": "2026-10-13T02:35:52.171Z",
+      "qualityScore": 100,
+      "issues": []
+    },
+    {
+      "id": "prod_8",
+      "name": "Nordic Minimalist Solid Oak Coffee Table",
+      "sku": "FUR-TBL-OAK",
+      "price": 219,
+      "regularPrice": 249,
+      "category": "Home & Living",
+      "shortDescription": "Scandinavian handcrafted natural white oak living room table.",
+      "description": "Meticulously crafted from FSC-certified solid white oak, the Nordic Minimalist Solid Oak Coffee Table embodies timeless Scandinavian simplicity and craftsmanship. Finished with a durable organic matte lacquer resistant to daily spills and UV fading. Clean chamfered edge profiles and reinforced mortise-and-tenon joinery ensure generational durability.",
+      "stockStatus": "outofstock",
+      "stockQuantity": 0,
+      "status": "draft",
+      "attributes": [
+        {
+          "name": "Material",
+          "options": [
+            "Solid White Oak",
+            "Matte Lacquer"
+          ]
+        },
+        {
+          "name": "Dimensions",
+          "options": [
+            "110cm x 60cm x 42cm"
+          ]
+        }
+      ],
+      "syncStatus": "not_synced",
+      "wooId": null,
+      "lastSyncedAt": null,
+      "createdAt": "2026-10-11T10:35:52.171Z",
+      "updatedAt": "2026-10-13T10:41:21.300Z",
+      "qualityScore": 100,
+      "issues": []
+    }
+  ],
+  "proposals": [
+    {
+      "id": "prop_bbe1e07d",
+      "productId": "prod_1",
+      "productName": "Aurora Smart Ambient LED Strip (5M)",
+      "sku": "AUR-LGT-5M",
+      "currentScore": 65,
+      "projectedScore": 100,
+      "changes": {
+        "description": "The Aurora Smart Ambient LED Strip (5M) is engineered to deliver exceptional performance and reliability. Crafted from premium materials to exacting standards, it offers superior functionality, modern aesthetics, and intuitive usability suited for everyday lifestyle and professional demands.",
+        "attributes": [
+          {
+            "name": "Build Quality",
+            "options": [
+              "Premium High-Durability Materials"
+            ]
+          },
+          {
+            "name": "Warranty",
+            "options": [
+              "1-Year Comprehensive Manufacturer Warranty"
+            ]
+          },
+          {
+            "name": "Standards",
+            "options": [
+              "CE, FCC, RoHS Certified"
+            ]
+          }
+        ]
+      },
+      "reasoning": "Generated tailored e-commerce product description. Structured standard e-commerce specifications and warranty attributes.",
+      "status": "approved",
+      "createdAt": "2026-10-13T10:45:13.775Z",
+      "resolvedAt": "2026-10-13T10:45:13.778Z"
+    },
+    {
+      "id": "prop_30dc0a00",
+      "productId": "prod_3",
+      "productName": "SonicPulse Active Noise Cancelling Earbuds",
+      "sku": "AUD-EAR-ANC",
+      "currentScore": 55,
+      "projectedScore": 100,
+      "changes": {
+        "description": "Experience studio-grade acoustics with the SonicPulse Active Noise Cancelling Earbuds. Featuring active hybrid noise cancellation (up to -35dB), custom 10mm titanium drivers for deep bass, and dual beamforming microphones with AI wind reduction for crystal-clear calls. Includes IPX5 sweat resistance and up to 32 hours total playback with USB-C wireless charging case.",
+        "category": "Audio & Electronics",
+        "attributes": [
+          {
+            "name": "Noise Cancellation",
+            "options": [
+              "Hybrid Active Noise Cancelling (ANC)"
+            ]
+          },
+          {
+            "name": "Battery Life",
+            "options": [
+              "8h Playback + 24h Case (32h Total)"
+            ]
+          },
+          {
+            "name": "Water Resistance",
+            "options": [
+              "IPX5 Splashproof"
+            ]
+          }
+        ]
+      },
+      "reasoning": "Generated comprehensive audio e-commerce description with technical specifications, driver details, and battery life. Classified into \"Audio & Electronics\" based on acoustic product naming. Structured standard technical specifications (ANC, Battery Life, IPX rating).",
+      "status": "approved",
+      "createdAt": "2026-10-13T10:41:07.478Z",
+      "resolvedAt": "2026-10-13T10:41:21.285Z"
+    },
+    {
+      "id": "prop_ec66497b",
+      "productId": "prod_4",
+      "productName": "HyperCharge 65W GaN Dual-Port Travel Charger",
+      "sku": "PWR-GAN-65W",
+      "currentScore": 75,
+      "projectedScore": 100,
+      "changes": {
+        "description": "Engineered with next-generation Gallium Nitride (GaN III) semiconductors, the HyperCharge 65W GaN Dual-Port Travel Charger delivers ultra-efficient, high-speed power delivery in a compact pocket footprint. Dual-port architecture supports simultaneous laptop and smartphone charging with intelligent temperature monitoring and universal voltage compatibility (100-240V)."
+      },
+      "reasoning": "Generated GaN charging product description emphasizing portability, safety protocols, and dual-port fast charging.",
+      "status": "approved",
+      "createdAt": "2026-10-13T10:41:07.478Z",
+      "resolvedAt": "2026-10-13T10:41:21.290Z"
+    },
+    {
+      "id": "prop_5fc295de",
+      "productId": "prod_5",
+      "productName": "HydroFlow Insulated Stainless Steel Bottle (1L)",
+      "sku": "HYD-BTL-1L",
+      "currentScore": 70,
+      "projectedScore": 100,
+      "changes": {
+        "category": "Sports & Outdoor Hydration",
+        "attributes": [
+          {
+            "name": "Capacity",
+            "options": [
+              "1000ml / 32oz"
+            ]
+          },
+          {
+            "name": "Thermal Retention",
+            "options": [
+              "24h Cold / 12h Hot"
+            ]
+          },
+          {
+            "name": "Material",
+            "options": [
+              "18/8 Pro-Grade Stainless Steel, BPA-Free"
+            ]
+          }
+        ]
+      },
+      "reasoning": "Classified into \"Sports & Outdoor Hydration\" based on drinkware profile. Added bottle specifications (Capacity, Thermal Retention, Material).",
+      "status": "approved",
+      "createdAt": "2026-10-13T10:41:07.478Z",
+      "resolvedAt": "2026-10-13T10:41:21.294Z"
+    },
+    {
+      "id": "prop_ddf696db",
+      "productId": "prod_6",
+      "productName": "Quantum Pro Mechanical Keyboard RGB",
+      "sku": "KEY-MECH-PRO",
+      "currentScore": 50,
+      "projectedScore": 100,
+      "changes": {
+        "description": "Built for discerning typists and gamers alike, the Quantum Pro Mechanical Keyboard RGB features an aerospace-grade aluminum top plate, hot-swappable PCB, and sound-dampening silicone gaskets. Enjoy per-key RGB backlighting with dynamic software customization, seamless Bluetooth 5.1/2.4GHz wireless connectivity, and pre-lubed mechanical switches.",
+        "price": 129.99,
+        "regularPrice": 155.99
+      },
+      "reasoning": "Generated mechanical keyboard description highlighting gasket design, hot-swap PCB, and acoustics. Identified zero/invalid price. Suggested standard retail price of $129.99 based on category benchmarks.",
+      "status": "approved",
+      "createdAt": "2026-10-13T10:41:07.478Z",
+      "resolvedAt": "2026-10-13T10:41:21.297Z"
+    },
+    {
+      "id": "prop_460ce15b",
+      "productId": "prod_8",
+      "productName": "Nordic Minimalist Solid Oak Coffee Table",
+      "sku": "FUR-TBL-OAK",
+      "currentScore": 75,
+      "projectedScore": 100,
+      "changes": {
+        "description": "Meticulously crafted from FSC-certified solid white oak, the Nordic Minimalist Solid Oak Coffee Table embodies timeless Scandinavian simplicity and craftsmanship. Finished with a durable organic matte lacquer resistant to daily spills and UV fading. Clean chamfered edge profiles and reinforced mortise-and-tenon joinery ensure generational durability."
+      },
+      "reasoning": "Generated Scandinavian furniture description highlighting sustainably sourced wood, craftsmanship, and finish.",
+      "status": "approved",
+      "createdAt": "2026-10-13T10:41:07.478Z",
+      "resolvedAt": "2026-10-13T10:41:21.300Z"
+    }
+  ],
+  "logs": [
+    {
+      "id": "log_d6300b7b",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791890777947). Assigned mock Woo ID #2867.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_8577ca63",
+        "wooId": 2867,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791890777947",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T11:26:17.966Z"
+    },
+    {
+      "id": "log_2a5dc8e0",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions, suggest corrections\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T11:26:17.961Z"
+    },
+    {
+      "id": "log_3abfd6f5",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 1 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 1
+      },
+      "timestamp": "2026-10-13T11:26:17.956Z"
+    },
+    {
+      "id": "log_9c974ffb",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791890152719). Assigned mock Woo ID #8133.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_46fd1a74",
+        "wooId": 8133,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791890152719",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T11:15:52.736Z"
+    },
+    {
+      "id": "log_35bc18b6",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions, suggest corrections\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T11:15:52.732Z"
+    },
+    {
+      "id": "log_aca26a8c",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 1 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 1
+      },
+      "timestamp": "2026-10-13T11:15:52.727Z"
+    },
+    {
+      "id": "log_a336538a",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791888313770). Assigned mock Woo ID #5429.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_d90a4183",
+        "wooId": 5429,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791888313770",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T10:45:13.784Z"
+    },
+    {
+      "id": "log_ef95376a",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions, suggest corrections\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:45:13.781Z"
+    },
+    {
+      "id": "log_0f52ec7f",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 1 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 1
+      },
+      "timestamp": "2026-10-13T10:45:13.776Z"
+    },
+    {
+      "id": "log_10312b79",
+      "action": "WOOCOMMERCE_SYNC_FAILED",
+      "details": "Product \"Zero Price Test\" cannot be synced: Missing name, SKU, or valid price.",
+      "status": "error",
+      "metadata": {
+        "productId": "prod_ec878b9b"
+      },
+      "timestamp": "2026-10-13T10:45:05.872Z"
+    },
+    {
+      "id": "log_99f3bccb",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Check for products with invalid prices or missing categories and propose corrections.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:41:47.277Z"
+    },
+    {
+      "id": "log_bf25f9bf",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Aurora Smart Ambient LED Strip (5M)\" (SKU: AUR-LGT-5M). Assigned mock Woo ID #1024.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_1",
+        "wooId": 1024,
+        "isDemo": true,
+        "payload": {
+          "name": "Aurora Smart Ambient LED Strip (5M)",
+          "type": "simple",
+          "regular_price": "49.99",
+          "description": "",
+          "short_description": "App-controlled RGBIC ambient lighting strip with music synchronization.",
+          "sku": "AUR-LGT-5M",
+          "manage_stock": true,
+          "stock_quantity": 150,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Smart Home & Lighting"
+            }
+          ],
+          "attributes": []
+        }
+      },
+      "timestamp": "2026-10-13T10:41:42.468Z"
+    },
+    {
+      "id": "log_4765f5f2",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Aurora Smart Ambient LED Strip (5M)\" (SKU: AUR-LGT-5M). Assigned mock Woo ID #1024.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_1",
+        "wooId": 1024,
+        "isDemo": true,
+        "payload": {
+          "name": "Aurora Smart Ambient LED Strip (5M)",
+          "type": "simple",
+          "regular_price": "49.99",
+          "description": "Transform your living space with the Aurora 5M Smart LED Strip. Features individually addressable RGBIC LEDs, seamless voice control with Alexa and Google Assistant, 16 million colors, and dynamic music sync modes. Easy peel-and-stick installation suitable for TVs, desks, and ceilings.",
+          "short_description": "App-controlled RGBIC ambient lighting strip with music synchronization.",
+          "sku": "AUR-LGT-5M",
+          "manage_stock": true,
+          "stock_quantity": 150,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Smart Home & Lighting"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Length",
+              "visible": true,
+              "options": [
+                "5 Meters"
+              ]
+            },
+            {
+              "name": "Connectivity",
+              "visible": true,
+              "options": [
+                "Wi-Fi 2.4GHz",
+                "Bluetooth 5.0"
+              ]
+            },
+            {
+              "name": "Color Tech",
+              "visible": true,
+              "options": [
+                "RGBIC Addressable"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T10:41:07.490Z"
+    },
+    {
+      "id": "log_c2d131a6",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 5 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 5
+      },
+      "timestamp": "2026-10-13T10:41:07.481Z"
+    },
+    {
+      "id": "log_bc043a3b",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Run catalogue quality inspection and sync ready products to WooCommerce.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:41:07.474Z"
+    },
+    {
+      "id": "log_287df747",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 3 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 3
+      },
+      "timestamp": "2026-10-13T10:40:58.609Z"
+    },
+    {
+      "id": "log_51113879",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions or categories, suggest corrections, and show me the changes before applying them.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:40:58.601Z"
+    },
+    {
+      "id": "log_408100ec",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Check for products with invalid prices or missing categories and propose corrections.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:40:32.037Z"
+    },
+    {
+      "id": "log_48b29a63",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 1 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 1
+      },
+      "timestamp": "2026-10-13T10:40:17.026Z"
+    },
+    {
+      "id": "log_beeb7349",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Check for products with invalid prices or missing categories and propose corrections.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:40:17.022Z"
+    },
+    {
+      "id": "log_45cfa6a1",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Check for products with invalid prices or missing categories and propose corrections.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:40:07.844Z"
+    },
+    {
+      "id": "log_76207405",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 1 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 1
+      },
+      "timestamp": "2026-10-13T10:38:30.855Z"
+    },
+    {
+      "id": "log_bf6b5f18",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Check for products with invalid prices or missing categories and propose corrections.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:38:30.846Z"
+    },
+    {
+      "id": "log_a39b0bfb",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 1 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 1
+      },
+      "timestamp": "2026-10-13T10:37:58.535Z"
+    },
+    {
+      "id": "log_eec260e8",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Check for products with invalid prices or missing categories and propose corrections.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:37:58.529Z"
+    },
+    {
+      "id": "log_b2f345aa",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 4 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 4
+      },
+      "timestamp": "2026-10-13T10:36:43.934Z"
+    },
+    {
+      "id": "log_9bac1018",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions or categories, suggest corrections, and show me the changes before applying them.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:36:43.930Z"
+    },
+    {
+      "id": "log_79c82be4",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Check for products with invalid prices or missing categories and propose corrections.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:29:29.051Z"
+    },
+    {
+      "id": "log_f9541785",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791884176927). Assigned mock Woo ID #1605.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_d08b591e",
+        "wooId": 1605,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791884176927",
+          "manage_stock": true,
+          "stock_quantity": 1000,
+          "stock_status": "outofstock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": []
+        }
+      },
+      "timestamp": "2026-10-13T10:29:16.688Z"
+    },
+    {
+      "id": "log_1074d6d2",
+      "action": "SETTINGS_UPDATED",
+      "details": "Updated integration settings and credentials",
+      "status": "info",
+      "metadata": {},
+      "timestamp": "2026-10-13T10:28:49.110Z"
+    },
+    {
+      "id": "log_25a2f9ab",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791884176927). Assigned mock Woo ID #1605.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_d08b591e",
+        "wooId": 1605,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791884176927",
+          "manage_stock": true,
+          "stock_quantity": 1000,
+          "stock_status": "outofstock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T10:25:48.462Z"
+    },
+    {
+      "id": "log_8f744c75",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 0 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 0
+      },
+      "timestamp": "2026-10-13T10:25:08.112Z"
+    },
+    {
+      "id": "log_38581667",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"identify defect\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:25:08.103Z"
+    },
+    {
+      "id": "log_921c53b0",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791886165078). Assigned mock Woo ID #4549.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_036806ba",
+        "wooId": 4549,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791886165078",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T10:09:25.094Z"
+    },
+    {
+      "id": "log_354121db",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions, suggest corrections\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:09:25.089Z"
+    },
+    {
+      "id": "log_eef8681a",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 1 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 1
+      },
+      "timestamp": "2026-10-13T10:09:25.085Z"
+    },
+    {
+      "id": "log_1f06eeff",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 0 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 0
+      },
+      "timestamp": "2026-10-13T10:01:03.582Z"
+    },
+    {
+      "id": "log_328e1566",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Inspect the catalogue for products requiring attention, suggest rich descriptions and categories, and stage them for approval.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T10:01:03.576Z"
+    },
+    {
+      "id": "log_d998b4f8",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"pc\" (SKU: ERG-450). Assigned mock Woo ID #6795.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_0f24a034",
+        "wooId": 6795,
+        "isDemo": true,
+        "payload": {
+          "name": "pc",
+          "type": "simple",
+          "regular_price": "100",
+          "description": "RFFRRFRFRFRFRFRFRFRFRFFFFFFFFFFFFFFFFFFFFFFFFFFFWCDDDDDDDDDDDDDDDDDDDD",
+          "short_description": "DWFRF",
+          "sku": "ERG-450",
+          "manage_stock": true,
+          "stock_quantity": 100,
+          "stock_status": "outofstock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "COMPUTER"
+            }
+          ],
+          "attributes": [
+            {
+              "name": " XC X",
+              "visible": true,
+              "options": [
+                "253525"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:48:16.363Z"
+    },
+    {
+      "id": "log_e05b7ec3",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791884176927). Assigned mock Woo ID #1605.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_d08b591e",
+        "wooId": 1605,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791884176927",
+          "manage_stock": true,
+          "stock_quantity": 1000,
+          "stock_status": "outofstock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:47:47.494Z"
+    },
+    {
+      "id": "log_07b9b45b",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791884176927). Assigned mock Woo ID #1605.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_d08b591e",
+        "wooId": 1605,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791884176927",
+          "manage_stock": true,
+          "stock_quantity": 1000,
+          "stock_status": "outofstock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:47:47.283Z"
+    },
+    {
+      "id": "log_b15b567d",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791884176927). Assigned mock Woo ID #1605.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_d08b591e",
+        "wooId": 1605,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791884176927",
+          "manage_stock": true,
+          "stock_quantity": 1000,
+          "stock_status": "outofstock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:47:40.494Z"
+    },
+    {
+      "id": "log_0fbcefba",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791884086865). Assigned mock Woo ID #6422.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_b69752df",
+        "wooId": 6422,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791884086865",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:47:19.995Z"
+    },
+    {
+      "id": "log_8f71d056",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791884086865). Assigned mock Woo ID #6422.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_b69752df",
+        "wooId": 6422,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791884086865",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:47:16.780Z"
+    },
+    {
+      "id": "log_c103ab71",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791884176927). Assigned mock Woo ID #1605.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_d08b591e",
+        "wooId": 1605,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791884176927",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "onbackorder",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:47:15.403Z"
+    },
+    {
+      "id": "log_0b4b433a",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 0 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 0
+      },
+      "timestamp": "2026-10-13T09:37:50.887Z"
+    },
+    {
+      "id": "log_0abde157",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"COST OF PC\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T09:37:50.882Z"
+    },
+    {
+      "id": "log_998f4913",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Check for products with invalid prices or missing categories and propose corrections.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T09:37:29.253Z"
+    },
+    {
+      "id": "log_0d23c042",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791884235924). Assigned mock Woo ID #4313.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_d7ee17af",
+        "wooId": 4313,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791884235924",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:37:15.942Z"
+    },
+    {
+      "id": "log_573a939f",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions, suggest corrections\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T09:37:15.939Z"
+    },
+    {
+      "id": "log_616e6ffe",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 1 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 1
+      },
+      "timestamp": "2026-10-13T09:37:15.935Z"
+    },
+    {
+      "id": "log_d0f6886e",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"pc\" (SKU: ERG-450). Assigned mock Woo ID #6795.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_0f24a034",
+        "wooId": 6795,
+        "isDemo": true,
+        "payload": {
+          "name": "pc",
+          "type": "simple",
+          "regular_price": "100",
+          "description": "RFFRRFRFRFRFRFRFRFRFRFFFFFFFFFFFFFFFFFFFFFFFFFFFWCDDDDDDDDDDDDDDDDDDDD",
+          "short_description": "DWFRF",
+          "sku": "ERG-450",
+          "manage_stock": true,
+          "stock_quantity": 100,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "COMPUTER"
+            }
+          ],
+          "attributes": [
+            {
+              "name": " XC X",
+              "visible": true,
+              "options": [
+                "253525"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:34:23.716Z"
+    },
+    {
+      "id": "log_ace37910",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 0 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 0
+      },
+      "timestamp": "2026-10-13T09:34:23.709Z"
+    },
+    {
+      "id": "log_8a73819b",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Run catalogue quality inspection and sync ready products to WooCommerce.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T09:34:23.703Z"
+    },
+    {
+      "id": "log_d356b5a1",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"pc\" (SKU: ERG-450). Assigned mock Woo ID #6795.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_0f24a034",
+        "wooId": 6795,
+        "isDemo": true,
+        "payload": {
+          "name": "pc",
+          "type": "simple",
+          "regular_price": "100",
+          "description": "RFFRRFRFRFRFRFRFRFRFRFFFFFFFFFFFFFFFFFFFFFFFFFFFWCDDDDDDDDDDDDDDDDDDDD",
+          "short_description": "DWFRF",
+          "sku": "ERG-450",
+          "manage_stock": true,
+          "stock_quantity": 100,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "COMPUTER"
+            }
+          ],
+          "attributes": [
+            {
+              "name": " XC X",
+              "visible": true,
+              "options": [
+                "253525"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:34:11.077Z"
+    },
+    {
+      "id": "log_315cb3e0",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"pc\" (SKU: ERG-450). Assigned mock Woo ID #6795.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_0f24a034",
+        "wooId": 6795,
+        "isDemo": true,
+        "payload": {
+          "name": "pc",
+          "type": "simple",
+          "regular_price": "100",
+          "description": "RFFRRFRFRFRFRFRFRFRFRFFFFFFFFFFFFFFFFFFFFFFFFFFFWCDDDDDDDDDDDDDDDDDDDD",
+          "short_description": "DWFRF",
+          "sku": "ERG-450",
+          "manage_stock": true,
+          "stock_quantity": 100,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "COMPUTER"
+            }
+          ],
+          "attributes": []
+        }
+      },
+      "timestamp": "2026-10-13T09:33:53.974Z"
+    },
+    {
+      "id": "log_6c3ae849",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 0 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 0
+      },
+      "timestamp": "2026-10-13T09:32:54.748Z"
+    },
+    {
+      "id": "log_542ae06d",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit and enrich product \"pc\" (SKU: ERG-450), resolve its quality issues, and propose fixes for approval.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T09:32:54.742Z"
+    },
+    {
+      "id": "log_cdf5a3f6",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Nordic Minimalist Solid Oak Coffee Table\" (SKU: FUR-TBL-OAK). Assigned mock Woo ID #2710.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_8",
+        "wooId": 2710,
+        "isDemo": true,
+        "payload": {
+          "name": "Nordic Minimalist Solid Oak Coffee Table",
+          "type": "simple",
+          "regular_price": "219",
+          "description": "Meticulously crafted from FSC-certified solid white oak, the Nordic Minimalist Solid Oak Coffee Table embodies timeless Scandinavian simplicity and craftsmanship. Finished with a durable organic matte lacquer resistant to daily spills and UV fading. Clean chamfered edge profiles and reinforced mortise-and-tenon joinery ensure generational durability.",
+          "short_description": "Scandinavian handcrafted natural white oak living room table.",
+          "sku": "FUR-TBL-OAK",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "outofstock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Home & Living"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Material",
+              "visible": true,
+              "options": [
+                "Solid White Oak",
+                "Matte Lacquer"
+              ]
+            },
+            {
+              "name": "Dimensions",
+              "visible": true,
+              "options": [
+                "110cm x 60cm x 42cm"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:24:58.501Z"
+    },
+    {
+      "id": "log_dbd9cf54",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"AeroGlide Featherlight Trail Running Shoes\" (SKU: SHOE-TRAIL-01). Assigned mock Woo ID #1026.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_7",
+        "wooId": 1026,
+        "isDemo": true,
+        "payload": {
+          "name": "AeroGlide Featherlight Trail Running Shoes",
+          "type": "simple",
+          "regular_price": "119",
+          "description": "Conquer tough terrain with the AeroGlide Trail Runners. Engineered with a rugged Vibram Megagrip lug outsole, water-resistant ripstop mesh upper, and high-rebound supercritical foam midsole for responsive propulsion across mud, gravel, and mountain trails.",
+          "short_description": "All-terrain lightweight trail runners with responsive carbon-plate cushioning.",
+          "sku": "SHOE-TRAIL-01",
+          "manage_stock": true,
+          "stock_quantity": 65,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Footwear & Athletics"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Terrain",
+              "visible": true,
+              "options": [
+                "Trail",
+                "Mountain",
+                "Mixed"
+              ]
+            },
+            {
+              "name": "Drop",
+              "visible": true,
+              "options": [
+                "6mm"
+              ]
+            },
+            {
+              "name": "Weight",
+              "visible": true,
+              "options": [
+                "245g (Size 9)"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:24:58.494Z"
+    },
+    {
+      "id": "log_e2b0cfbc",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Quantum Pro Mechanical Keyboard RGB\" (SKU: KEY-MECH-PRO). Assigned mock Woo ID #5411.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_6",
+        "wooId": 5411,
+        "isDemo": true,
+        "payload": {
+          "name": "Quantum Pro Mechanical Keyboard RGB",
+          "type": "simple",
+          "regular_price": "129.99",
+          "description": "Built for discerning typists and gamers alike, the Quantum Pro Mechanical Keyboard RGB features an aerospace-grade aluminum top plate, hot-swappable PCB, and sound-dampening silicone gaskets. Enjoy per-key RGB backlighting with dynamic software customization, seamless Bluetooth 5.1/2.4GHz wireless connectivity, and pre-lubed mechanical switches.",
+          "short_description": "Compact 75% hot-swappable keyboard.",
+          "sku": "KEY-MECH-PRO",
+          "manage_stock": true,
+          "stock_quantity": 50,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Computer Peripherals"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Layout",
+              "visible": true,
+              "options": [
+                "75% Compact (84 Keys)"
+              ]
+            },
+            {
+              "name": "Switches",
+              "visible": true,
+              "options": [
+                "Gateron Pro Yellow (Hot-Swappable)"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:24:58.486Z"
+    },
+    {
+      "id": "log_6ae70a20",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"HydroFlow Insulated Stainless Steel Bottle (1L)\" (SKU: HYD-BTL-1L). Assigned mock Woo ID #2714.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_5",
+        "wooId": 2714,
+        "isDemo": true,
+        "payload": {
+          "name": "HydroFlow Insulated Stainless Steel Bottle (1L)",
+          "type": "simple",
+          "regular_price": "24.95",
+          "description": "Durable double-wall 18/8 food-grade stainless steel flask keeps beverages cold for 24 hours or piping hot for 12 hours. Sweat-free powder coat finish with leak-proof spout lid.",
+          "short_description": "Vacuum insulated sports water bottle.",
+          "sku": "HYD-BTL-1L",
+          "manage_stock": true,
+          "stock_quantity": 310,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Sports & Outdoor Hydration"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Capacity",
+              "visible": true,
+              "options": [
+                "1000ml / 32oz"
+              ]
+            },
+            {
+              "name": "Thermal Retention",
+              "visible": true,
+              "options": [
+                "24h Cold / 12h Hot"
+              ]
+            },
+            {
+              "name": "Material",
+              "visible": true,
+              "options": [
+                "18/8 Pro-Grade Stainless Steel, BPA-Free"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:24:58.478Z"
+    },
+    {
+      "id": "log_01bf256f",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"HyperCharge 65W GaN Dual-Port Travel Charger\" (SKU: PWR-GAN-65W). Assigned mock Woo ID #7542.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_4",
+        "wooId": 7542,
+        "isDemo": true,
+        "payload": {
+          "name": "HyperCharge 65W GaN Dual-Port Travel Charger",
+          "type": "simple",
+          "regular_price": "34.5",
+          "description": "Engineered with next-generation Gallium Nitride (GaN III) semiconductors, the HyperCharge 65W GaN Dual-Port Travel Charger delivers ultra-efficient, high-speed power delivery in a compact pocket footprint. Dual-port architecture supports simultaneous laptop and smartphone charging with intelligent temperature monitoring and universal voltage compatibility (100-240V).",
+          "short_description": "Pocket-sized GaN III fast charger with USB-C and USB-A ports.",
+          "sku": "PWR-GAN-65W",
+          "manage_stock": true,
+          "stock_quantity": 210,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Electronics & Accessories"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Max Power",
+              "visible": true,
+              "options": [
+                "65W Total"
+              ]
+            },
+            {
+              "name": "Ports",
+              "visible": true,
+              "options": [
+                "1x USB-C PD 3.0",
+                "1x USB-A QC 4.0"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:24:58.472Z"
+    },
+    {
+      "id": "log_d7580a0f",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"SonicPulse Active Noise Cancelling Earbuds\" (SKU: AUD-EAR-ANC). Assigned mock Woo ID #9486.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_3",
+        "wooId": 9486,
+        "isDemo": true,
+        "payload": {
+          "name": "SonicPulse Active Noise Cancelling Earbuds",
+          "type": "simple",
+          "regular_price": "79.99",
+          "description": "Experience studio-grade acoustics with the SonicPulse Active Noise Cancelling Earbuds. Featuring active hybrid noise cancellation (up to -35dB), custom 10mm titanium drivers for deep bass, and dual beamforming microphones with AI wind reduction for crystal-clear calls. Includes IPX5 sweat resistance and up to 32 hours total playback with USB-C wireless charging case.",
+          "short_description": "Compact wireless earbuds with ANC.",
+          "sku": "AUD-EAR-ANC",
+          "manage_stock": true,
+          "stock_quantity": 88,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio & Electronics"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Noise Cancellation",
+              "visible": true,
+              "options": [
+                "Hybrid Active Noise Cancelling (ANC)"
+              ]
+            },
+            {
+              "name": "Battery Life",
+              "visible": true,
+              "options": [
+                "8h Earbuds + 24h Case (32h Total)"
+              ]
+            },
+            {
+              "name": "Water Resistance",
+              "visible": true,
+              "options": [
+                "IPX5 Splashproof"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:24:58.460Z"
+    },
+    {
+      "id": "log_8c92d591",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"ErgoPro Ultra-Mesh Ergonomic Desk Chair\" (SKU: ERG-CHR-BLK). Assigned mock Woo ID #1025.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_2",
+        "wooId": 1025,
+        "isDemo": true,
+        "payload": {
+          "name": "ErgoPro Ultra-Mesh Ergonomic Desk Chair",
+          "type": "simple",
+          "regular_price": "289",
+          "description": "Engineered for all-day comfort and spine alignment. The ErgoPro chair features full Korean elastomeric breathable mesh, dynamic self-adjusting lumbar support, 4D multi-directional armrests, and a heavy-duty aluminum wheelbase tested up to 300 lbs.",
+          "short_description": "High-performance breathable mesh ergonomic task chair with 4D armrests.",
+          "sku": "ERG-CHR-BLK",
+          "manage_stock": true,
+          "stock_quantity": 42,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Office & Furniture"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Material",
+              "visible": true,
+              "options": [
+                "Breathable Elastomer Mesh",
+                "Aluminum"
+              ]
+            },
+            {
+              "name": "Weight Capacity",
+              "visible": true,
+              "options": [
+                "300 lbs / 136 kg"
+              ]
+            },
+            {
+              "name": "Warranty",
+              "visible": true,
+              "options": [
+                "5 Years"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:24:58.450Z"
+    },
+    {
+      "id": "log_7451801a",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Aurora Smart Ambient LED Strip (5M)\" (SKU: AUR-LGT-5M). Assigned mock Woo ID #1024.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_1",
+        "wooId": 1024,
+        "isDemo": true,
+        "payload": {
+          "name": "Aurora Smart Ambient LED Strip (5M)",
+          "type": "simple",
+          "regular_price": "49.99",
+          "description": "Transform your living space with the Aurora 5M Smart LED Strip. Features individually addressable RGBIC LEDs, seamless voice control with Alexa and Google Assistant, 16 million colors, and dynamic music sync modes. Easy peel-and-stick installation suitable for TVs, desks, and ceilings.",
+          "short_description": "App-controlled RGBIC ambient lighting strip with music synchronization.",
+          "sku": "AUR-LGT-5M",
+          "manage_stock": true,
+          "stock_quantity": 150,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Smart Home & Lighting"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Length",
+              "visible": true,
+              "options": [
+                "5 Meters"
+              ]
+            },
+            {
+              "name": "Connectivity",
+              "visible": true,
+              "options": [
+                "Wi-Fi 2.4GHz",
+                "Bluetooth 5.0"
+              ]
+            },
+            {
+              "name": "Color Tech",
+              "visible": true,
+              "options": [
+                "RGBIC Addressable"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:24:58.440Z"
+    },
+    {
+      "id": "log_19a8410c",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"pc\" (SKU: ERG-450). Assigned mock Woo ID #6795.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_0f24a034",
+        "wooId": 6795,
+        "isDemo": true,
+        "payload": {
+          "name": "pc",
+          "type": "simple",
+          "regular_price": "100",
+          "description": "RFFRRFRFRFRFRFRFRFRFRFFFFFFFFFFFFFFFFFFFFFFFFFFFWCDDDDDDDDDDDDDDDDDDDD",
+          "short_description": "DWFRF",
+          "sku": "ERG-450",
+          "manage_stock": true,
+          "stock_quantity": 100,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "COMPUTER"
+            }
+          ],
+          "attributes": []
+        }
+      },
+      "timestamp": "2026-10-13T09:24:58.428Z"
+    },
+    {
+      "id": "log_c2583396",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Nordic Minimalist Solid Oak Coffee Table\" (SKU: FUR-TBL-OAK). Assigned mock Woo ID #2710.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_8",
+        "wooId": 2710,
+        "isDemo": true,
+        "payload": {
+          "name": "Nordic Minimalist Solid Oak Coffee Table",
+          "type": "simple",
+          "regular_price": "219",
+          "description": "Meticulously crafted from FSC-certified solid white oak, the Nordic Minimalist Solid Oak Coffee Table embodies timeless Scandinavian simplicity and craftsmanship. Finished with a durable organic matte lacquer resistant to daily spills and UV fading. Clean chamfered edge profiles and reinforced mortise-and-tenon joinery ensure generational durability.",
+          "short_description": "Scandinavian handcrafted natural white oak living room table.",
+          "sku": "FUR-TBL-OAK",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "outofstock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Home & Living"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Material",
+              "visible": true,
+              "options": [
+                "Solid White Oak",
+                "Matte Lacquer"
+              ]
+            },
+            {
+              "name": "Dimensions",
+              "visible": true,
+              "options": [
+                "110cm x 60cm x 42cm"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:23:08.876Z"
+    },
+    {
+      "id": "log_24082171",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"AeroGlide Featherlight Trail Running Shoes\" (SKU: SHOE-TRAIL-01). Assigned mock Woo ID #1026.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_7",
+        "wooId": 1026,
+        "isDemo": true,
+        "payload": {
+          "name": "AeroGlide Featherlight Trail Running Shoes",
+          "type": "simple",
+          "regular_price": "119",
+          "description": "Conquer tough terrain with the AeroGlide Trail Runners. Engineered with a rugged Vibram Megagrip lug outsole, water-resistant ripstop mesh upper, and high-rebound supercritical foam midsole for responsive propulsion across mud, gravel, and mountain trails.",
+          "short_description": "All-terrain lightweight trail runners with responsive carbon-plate cushioning.",
+          "sku": "SHOE-TRAIL-01",
+          "manage_stock": true,
+          "stock_quantity": 65,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Footwear & Athletics"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Terrain",
+              "visible": true,
+              "options": [
+                "Trail",
+                "Mountain",
+                "Mixed"
+              ]
+            },
+            {
+              "name": "Drop",
+              "visible": true,
+              "options": [
+                "6mm"
+              ]
+            },
+            {
+              "name": "Weight",
+              "visible": true,
+              "options": [
+                "245g (Size 9)"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:23:08.870Z"
+    },
+    {
+      "id": "log_05ccbccb",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Quantum Pro Mechanical Keyboard RGB\" (SKU: KEY-MECH-PRO). Assigned mock Woo ID #5411.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_6",
+        "wooId": 5411,
+        "isDemo": true,
+        "payload": {
+          "name": "Quantum Pro Mechanical Keyboard RGB",
+          "type": "simple",
+          "regular_price": "129.99",
+          "description": "Built for discerning typists and gamers alike, the Quantum Pro Mechanical Keyboard RGB features an aerospace-grade aluminum top plate, hot-swappable PCB, and sound-dampening silicone gaskets. Enjoy per-key RGB backlighting with dynamic software customization, seamless Bluetooth 5.1/2.4GHz wireless connectivity, and pre-lubed mechanical switches.",
+          "short_description": "Compact 75% hot-swappable keyboard.",
+          "sku": "KEY-MECH-PRO",
+          "manage_stock": true,
+          "stock_quantity": 50,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Computer Peripherals"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Layout",
+              "visible": true,
+              "options": [
+                "75% Compact (84 Keys)"
+              ]
+            },
+            {
+              "name": "Switches",
+              "visible": true,
+              "options": [
+                "Gateron Pro Yellow (Hot-Swappable)"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:23:08.863Z"
+    },
+    {
+      "id": "log_e5870d9b",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"HydroFlow Insulated Stainless Steel Bottle (1L)\" (SKU: HYD-BTL-1L). Assigned mock Woo ID #2714.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_5",
+        "wooId": 2714,
+        "isDemo": true,
+        "payload": {
+          "name": "HydroFlow Insulated Stainless Steel Bottle (1L)",
+          "type": "simple",
+          "regular_price": "24.95",
+          "description": "Durable double-wall 18/8 food-grade stainless steel flask keeps beverages cold for 24 hours or piping hot for 12 hours. Sweat-free powder coat finish with leak-proof spout lid.",
+          "short_description": "Vacuum insulated sports water bottle.",
+          "sku": "HYD-BTL-1L",
+          "manage_stock": true,
+          "stock_quantity": 310,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Sports & Outdoor Hydration"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Capacity",
+              "visible": true,
+              "options": [
+                "1000ml / 32oz"
+              ]
+            },
+            {
+              "name": "Thermal Retention",
+              "visible": true,
+              "options": [
+                "24h Cold / 12h Hot"
+              ]
+            },
+            {
+              "name": "Material",
+              "visible": true,
+              "options": [
+                "18/8 Pro-Grade Stainless Steel, BPA-Free"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:23:08.857Z"
+    },
+    {
+      "id": "log_f2cd130a",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"HyperCharge 65W GaN Dual-Port Travel Charger\" (SKU: PWR-GAN-65W). Assigned mock Woo ID #7542.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_4",
+        "wooId": 7542,
+        "isDemo": true,
+        "payload": {
+          "name": "HyperCharge 65W GaN Dual-Port Travel Charger",
+          "type": "simple",
+          "regular_price": "34.5",
+          "description": "Engineered with next-generation Gallium Nitride (GaN III) semiconductors, the HyperCharge 65W GaN Dual-Port Travel Charger delivers ultra-efficient, high-speed power delivery in a compact pocket footprint. Dual-port architecture supports simultaneous laptop and smartphone charging with intelligent temperature monitoring and universal voltage compatibility (100-240V).",
+          "short_description": "Pocket-sized GaN III fast charger with USB-C and USB-A ports.",
+          "sku": "PWR-GAN-65W",
+          "manage_stock": true,
+          "stock_quantity": 210,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Electronics & Accessories"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Max Power",
+              "visible": true,
+              "options": [
+                "65W Total"
+              ]
+            },
+            {
+              "name": "Ports",
+              "visible": true,
+              "options": [
+                "1x USB-C PD 3.0",
+                "1x USB-A QC 4.0"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:23:08.850Z"
+    },
+    {
+      "id": "log_848a0ff7",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"SonicPulse Active Noise Cancelling Earbuds\" (SKU: AUD-EAR-ANC). Assigned mock Woo ID #9486.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_3",
+        "wooId": 9486,
+        "isDemo": true,
+        "payload": {
+          "name": "SonicPulse Active Noise Cancelling Earbuds",
+          "type": "simple",
+          "regular_price": "79.99",
+          "description": "Experience studio-grade acoustics with the SonicPulse Active Noise Cancelling Earbuds. Featuring active hybrid noise cancellation (up to -35dB), custom 10mm titanium drivers for deep bass, and dual beamforming microphones with AI wind reduction for crystal-clear calls. Includes IPX5 sweat resistance and up to 32 hours total playback with USB-C wireless charging case.",
+          "short_description": "Compact wireless earbuds with ANC.",
+          "sku": "AUD-EAR-ANC",
+          "manage_stock": true,
+          "stock_quantity": 88,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio & Electronics"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Noise Cancellation",
+              "visible": true,
+              "options": [
+                "Hybrid Active Noise Cancelling (ANC)"
+              ]
+            },
+            {
+              "name": "Battery Life",
+              "visible": true,
+              "options": [
+                "8h Earbuds + 24h Case (32h Total)"
+              ]
+            },
+            {
+              "name": "Water Resistance",
+              "visible": true,
+              "options": [
+                "IPX5 Splashproof"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:23:08.844Z"
+    },
+    {
+      "id": "log_0eac2e50",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"ErgoPro Ultra-Mesh Ergonomic Desk Chair\" (SKU: ERG-CHR-BLK). Assigned mock Woo ID #1025.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_2",
+        "wooId": 1025,
+        "isDemo": true,
+        "payload": {
+          "name": "ErgoPro Ultra-Mesh Ergonomic Desk Chair",
+          "type": "simple",
+          "regular_price": "289",
+          "description": "Engineered for all-day comfort and spine alignment. The ErgoPro chair features full Korean elastomeric breathable mesh, dynamic self-adjusting lumbar support, 4D multi-directional armrests, and a heavy-duty aluminum wheelbase tested up to 300 lbs.",
+          "short_description": "High-performance breathable mesh ergonomic task chair with 4D armrests.",
+          "sku": "ERG-CHR-BLK",
+          "manage_stock": true,
+          "stock_quantity": 42,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Office & Furniture"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Material",
+              "visible": true,
+              "options": [
+                "Breathable Elastomer Mesh",
+                "Aluminum"
+              ]
+            },
+            {
+              "name": "Weight Capacity",
+              "visible": true,
+              "options": [
+                "300 lbs / 136 kg"
+              ]
+            },
+            {
+              "name": "Warranty",
+              "visible": true,
+              "options": [
+                "5 Years"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:23:08.839Z"
+    },
+    {
+      "id": "log_f26a74a2",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Aurora Smart Ambient LED Strip (5M)\" (SKU: AUR-LGT-5M). Assigned mock Woo ID #1024.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_1",
+        "wooId": 1024,
+        "isDemo": true,
+        "payload": {
+          "name": "Aurora Smart Ambient LED Strip (5M)",
+          "type": "simple",
+          "regular_price": "49.99",
+          "description": "Transform your living space with the Aurora 5M Smart LED Strip. Features individually addressable RGBIC LEDs, seamless voice control with Alexa and Google Assistant, 16 million colors, and dynamic music sync modes. Easy peel-and-stick installation suitable for TVs, desks, and ceilings.",
+          "short_description": "App-controlled RGBIC ambient lighting strip with music synchronization.",
+          "sku": "AUR-LGT-5M",
+          "manage_stock": true,
+          "stock_quantity": 150,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Smart Home & Lighting"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Length",
+              "visible": true,
+              "options": [
+                "5 Meters"
+              ]
+            },
+            {
+              "name": "Connectivity",
+              "visible": true,
+              "options": [
+                "Wi-Fi 2.4GHz",
+                "Bluetooth 5.0"
+              ]
+            },
+            {
+              "name": "Color Tech",
+              "visible": true,
+              "options": [
+                "RGBIC Addressable"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:23:08.832Z"
+    },
+    {
+      "id": "log_aade01b4",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"pc\" (SKU: ERG-450). Assigned mock Woo ID #6795.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_0f24a034",
+        "wooId": 6795,
+        "isDemo": true,
+        "payload": {
+          "name": "pc",
+          "type": "simple",
+          "regular_price": "100",
+          "description": "RFFRRFRFRFRFRFRFRFRFRFFFFFFFFFFFFFFFFFFFFFFFFFFFWCDDDDDDDDDDDDDDDDDDDD",
+          "short_description": "DWFRF",
+          "sku": "ERG-450",
+          "manage_stock": true,
+          "stock_quantity": 100,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "COMPUTER"
+            }
+          ],
+          "attributes": []
+        }
+      },
+      "timestamp": "2026-10-13T09:23:08.826Z"
+    },
+    {
+      "id": "log_2dbc891c",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 0 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 0
+      },
+      "timestamp": "2026-10-13T09:22:46.604Z"
+    },
+    {
+      "id": "log_8bb96c7f",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"HOW THE COST OF PC\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T09:22:46.600Z"
+    },
+    {
+      "id": "log_fa28de15",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"pc\" (SKU: ERG-450). Assigned mock Woo ID #6795.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_0f24a034",
+        "wooId": 6795,
+        "isDemo": true,
+        "payload": {
+          "name": "pc",
+          "type": "simple",
+          "regular_price": "100",
+          "description": "RFFRRFRFRFRFRFRFRFRFRFFFFFFFFFFFFFFFFFFFFFFFFFFFWCDDDDDDDDDDDDDDDDDDDD",
+          "short_description": "DWFRF",
+          "sku": "ERG-450",
+          "manage_stock": true,
+          "stock_quantity": 100,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "COMPUTER"
+            }
+          ],
+          "attributes": []
+        }
+      },
+      "timestamp": "2026-10-13T09:22:21.979Z"
+    },
+    {
+      "id": "log_f6dbb3f1",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Aurora Smart Ambient LED Strip (5M)\" (SKU: AUR-LGT-5M). Assigned mock Woo ID #1024.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_1",
+        "wooId": 1024,
+        "isDemo": true,
+        "payload": {
+          "name": "Aurora Smart Ambient LED Strip (5M)",
+          "type": "simple",
+          "regular_price": "49.99",
+          "description": "Transform your living space with the Aurora 5M Smart LED Strip. Features individually addressable RGBIC LEDs, seamless voice control with Alexa and Google Assistant, 16 million colors, and dynamic music sync modes. Easy peel-and-stick installation suitable for TVs, desks, and ceilings.",
+          "short_description": "App-controlled RGBIC ambient lighting strip with music synchronization.",
+          "sku": "AUR-LGT-5M",
+          "manage_stock": true,
+          "stock_quantity": 150,
+          "stock_status": "instock",
+          "status": "publish",
+          "categories": [
+            {
+              "name": "Smart Home & Lighting"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Length",
+              "visible": true,
+              "options": [
+                "5 Meters"
+              ]
+            },
+            {
+              "name": "Connectivity",
+              "visible": true,
+              "options": [
+                "Wi-Fi 2.4GHz",
+                "Bluetooth 5.0"
+              ]
+            },
+            {
+              "name": "Color Tech",
+              "visible": true,
+              "options": [
+                "RGBIC Addressable"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:19:42.019Z"
+    },
+    {
+      "id": "log_108ba4fa",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 3 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 3
+      },
+      "timestamp": "2026-10-13T09:18:09.295Z"
+    },
+    {
+      "id": "log_3dd5030c",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions or categories, suggest corrections, and show me the changes before applying them.\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T09:18:09.291Z"
+    },
+    {
+      "id": "log_79a5d51f",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791882422903). Assigned mock Woo ID #4664.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_c94fa182",
+        "wooId": 4664,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791882422903",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T09:07:02.924Z"
+    },
+    {
+      "id": "log_8f108e07",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 3 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 3
+      },
+      "timestamp": "2026-10-13T09:07:02.922Z"
+    },
+    {
+      "id": "log_dff7e063",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions, suggest corrections\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T09:07:02.918Z"
+    },
+    {
+      "id": "log_b0fb3f9c",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 5 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 5
+      },
+      "timestamp": "2026-10-13T09:07:02.911Z"
+    },
+    {
+      "id": "log_init",
+      "action": "SYSTEM_INITIALIZATION",
+      "details": "SmartPIM AI database initialized with 8 sample products.",
+      "status": "success",
+      "timestamp": "2026-10-13T09:07:02.851Z"
+    }
+  ],
+  "settings": {
+    "wooCommerceUrl": "",
+    "consumerKey": "",
+    "consumerSecret": "",
+    "demoMode": false,
+    "aiProvider": "gemini",
+    "geminiApiKey": "",
+    "openaiApiKey": ""
+  }
+}
