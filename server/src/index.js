@@ -167,6 +167,17 @@ app.get('/api/health', (req, res) => {
   });
 });
 
+// Global error handling middleware
+app.use((err, req, res, next) => {
+  if (err instanceof SyntaxError && err.status === 400 && 'body' in err) {
+    return res.status(400).json({ error: 'Malformed JSON payload.' });
+  }
+  const status = err.status || err.statusCode || 500;
+  res.status(status).json({
+    error: err.message || 'Internal Server Error'
+  });
+});
+
 app.listen(PORT, () => {
   console.log(`[SmartPIM AI Backend] Server running on http://localhost:${PORT}`);
 });

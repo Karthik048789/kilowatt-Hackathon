@@ -8,35 +8,36 @@
       "regularPrice": 59.99,
       "category": "Smart Home & Lighting",
       "shortDescription": "App-controlled RGBIC ambient lighting strip with music synchronization.",
-      "description": "The Aurora Smart Ambient LED Strip (5M) is engineered to deliver exceptional performance and reliability. Crafted from premium materials to exacting standards, it offers superior functionality, modern aesthetics, and intuitive usability suited for everyday lifestyle and professional demands.",
+      "description": "Transform your living space with the Aurora 5M Smart LED Strip. Features individually addressable RGBIC LEDs, seamless voice control with Alexa and Google Assistant, 16 million colors, and dynamic music sync modes. Easy peel-and-stick installation suitable for TVs, desks, and ceilings.",
       "stockStatus": "instock",
       "stockQuantity": 150,
       "status": "publish",
       "attributes": [
         {
-          "name": "Build Quality",
+          "name": "Length",
           "options": [
-            "Premium High-Durability Materials"
+            "5 Meters"
           ]
         },
         {
-          "name": "Warranty",
+          "name": "Connectivity",
           "options": [
-            "1-Year Comprehensive Manufacturer Warranty"
+            "Wi-Fi 2.4GHz",
+            "Bluetooth 5.0"
           ]
         },
         {
-          "name": "Standards",
+          "name": "Color Tech",
           "options": [
-            "CE, FCC, RoHS Certified"
+            "RGBIC Addressable"
           ]
         }
       ],
       "syncStatus": "synced",
       "wooId": 1024,
-      "lastSyncedAt": "2026-10-13T10:41:42.463Z",
-      "createdAt": "2026-10-10T10:35:52.171Z",
-      "updatedAt": "2026-10-13T10:45:13.778Z",
+      "lastSyncedAt": "2026-10-13T09:11:22.070Z",
+      "createdAt": "2026-10-10T13:11:22.071Z",
+      "updatedAt": "2026-10-13T09:11:22.071Z",
       "qualityScore": 100,
       "issues": []
     },
@@ -75,9 +76,9 @@
       ],
       "syncStatus": "synced",
       "wooId": 1025,
-      "lastSyncedAt": "2026-10-12T22:35:52.171Z",
-      "createdAt": "2026-10-09T10:35:52.171Z",
-      "updatedAt": "2026-10-12T22:35:52.171Z",
+      "lastSyncedAt": "2026-10-13T01:11:22.071Z",
+      "createdAt": "2026-10-09T13:11:22.071Z",
+      "updatedAt": "2026-10-13T01:11:22.071Z",
       "qualityScore": 100,
       "issues": []
     },
@@ -116,8 +117,8 @@
       "syncStatus": "not_synced",
       "wooId": null,
       "lastSyncedAt": null,
-      "createdAt": "2026-10-11T10:35:52.171Z",
-      "updatedAt": "2026-10-13T10:41:21.285Z",
+      "createdAt": "2026-10-11T13:11:22.071Z",
+      "updatedAt": "2026-10-13T13:51:04.675Z",
       "qualityScore": 100,
       "issues": []
     },
@@ -129,7 +130,7 @@
       "regularPrice": 39.99,
       "category": "Electronics & Accessories",
       "shortDescription": "Pocket-sized GaN III fast charger with USB-C and USB-A ports.",
-      "description": "Engineered with next-generation Gallium Nitride (GaN III) semiconductors, the HyperCharge 65W GaN Dual-Port Travel Charger delivers ultra-efficient, high-speed power delivery in a compact pocket footprint. Dual-port architecture supports simultaneous laptop and smartphone charging with intelligent temperature monitoring and universal voltage compatibility (100-240V).",
+      "description": "",
       "stockStatus": "instock",
       "stockQuantity": 210,
       "status": "draft",
@@ -151,10 +152,17 @@
       "syncStatus": "pending",
       "wooId": null,
       "lastSyncedAt": null,
-      "createdAt": "2026-10-12T10:35:52.171Z",
-      "updatedAt": "2026-10-13T10:41:21.290Z",
-      "qualityScore": 100,
-      "issues": []
+      "createdAt": "2026-10-12T13:11:22.071Z",
+      "updatedAt": "2026-10-12T13:11:22.071Z",
+      "qualityScore": 75,
+      "issues": [
+        {
+          "code": "MISSING_DESCRIPTION",
+          "label": "Missing product description",
+          "severity": "high",
+          "penalty": 25
+        }
+      ]
     },
     {
       "id": "prod_5",
@@ -162,49 +170,43 @@
       "sku": "HYD-BTL-1L",
       "price": 24.95,
       "regularPrice": 29.95,
-      "category": "Sports & Outdoor Hydration",
+      "category": "Uncategorized",
       "shortDescription": "Vacuum insulated sports water bottle.",
       "description": "Durable double-wall 18/8 food-grade stainless steel flask keeps beverages cold for 24 hours or piping hot for 12 hours. Sweat-free powder coat finish with leak-proof spout lid.",
       "stockStatus": "instock",
       "stockQuantity": 310,
       "status": "publish",
-      "attributes": [
-        {
-          "name": "Capacity",
-          "options": [
-            "1000ml / 32oz"
-          ]
-        },
-        {
-          "name": "Thermal Retention",
-          "options": [
-            "24h Cold / 12h Hot"
-          ]
-        },
-        {
-          "name": "Material",
-          "options": [
-            "18/8 Pro-Grade Stainless Steel, BPA-Free"
-          ]
-        }
-      ],
+      "attributes": [],
       "syncStatus": "not_synced",
       "wooId": null,
       "lastSyncedAt": null,
-      "createdAt": "2026-10-10T10:35:52.171Z",
-      "updatedAt": "2026-10-13T10:41:21.294Z",
-      "qualityScore": 100,
-      "issues": []
+      "createdAt": "2026-10-10T13:11:22.071Z",
+      "updatedAt": "2026-10-10T13:11:22.071Z",
+      "qualityScore": 70,
+      "issues": [
+        {
+          "code": "MISSING_CATEGORY",
+          "label": "Missing or uncategorized classification",
+          "severity": "high",
+          "penalty": 20
+        },
+        {
+          "code": "MISSING_ATTRIBUTES",
+          "label": "Missing technical specifications / attributes",
+          "severity": "low",
+          "penalty": 10
+        }
+      ]
     },
     {
       "id": "prod_6",
       "name": "Quantum Pro Mechanical Keyboard RGB",
       "sku": "KEY-MECH-PRO",
-      "price": 129.99,
-      "regularPrice": 155.99,
+      "price": 0,
+      "regularPrice": 0,
       "category": "Computer Peripherals",
       "shortDescription": "Compact 75% hot-swappable keyboard.",
-      "description": "Built for discerning typists and gamers alike, the Quantum Pro Mechanical Keyboard RGB features an aerospace-grade aluminum top plate, hot-swappable PCB, and sound-dampening silicone gaskets. Enjoy per-key RGB backlighting with dynamic software customization, seamless Bluetooth 5.1/2.4GHz wireless connectivity, and pre-lubed mechanical switches.",
+      "description": "",
       "stockStatus": "instock",
       "stockQuantity": 50,
       "status": "draft",
@@ -225,10 +227,23 @@
       "syncStatus": "failed",
       "wooId": null,
       "lastSyncedAt": null,
-      "createdAt": "2026-10-08T10:35:52.171Z",
-      "updatedAt": "2026-10-13T10:41:21.297Z",
-      "qualityScore": 100,
-      "issues": []
+      "createdAt": "2026-10-08T13:11:22.071Z",
+      "updatedAt": "2026-10-08T13:11:22.071Z",
+      "qualityScore": 50,
+      "issues": [
+        {
+          "code": "INVALID_PRICE",
+          "label": "Price is zero or invalid",
+          "severity": "critical",
+          "penalty": 25
+        },
+        {
+          "code": "MISSING_DESCRIPTION",
+          "label": "Missing product description",
+          "severity": "high",
+          "penalty": 25
+        }
+      ]
     },
     {
       "id": "prod_7",
@@ -266,9 +281,9 @@
       ],
       "syncStatus": "synced",
       "wooId": 1026,
-      "lastSyncedAt": "2026-10-13T02:35:52.171Z",
-      "createdAt": "2026-10-07T10:35:52.171Z",
-      "updatedAt": "2026-10-13T02:35:52.171Z",
+      "lastSyncedAt": "2026-10-13T05:11:22.071Z",
+      "createdAt": "2026-10-07T13:11:22.071Z",
+      "updatedAt": "2026-10-13T05:11:22.071Z",
       "qualityScore": 100,
       "issues": []
     },
@@ -280,7 +295,7 @@
       "regularPrice": 249,
       "category": "Home & Living",
       "shortDescription": "Scandinavian handcrafted natural white oak living room table.",
-      "description": "Meticulously crafted from FSC-certified solid white oak, the Nordic Minimalist Solid Oak Coffee Table embodies timeless Scandinavian simplicity and craftsmanship. Finished with a durable organic matte lacquer resistant to daily spills and UV fading. Clean chamfered edge profiles and reinforced mortise-and-tenon joinery ensure generational durability.",
+      "description": "",
       "stockStatus": "outofstock",
       "stockQuantity": 0,
       "status": "draft",
@@ -302,50 +317,66 @@
       "syncStatus": "not_synced",
       "wooId": null,
       "lastSyncedAt": null,
-      "createdAt": "2026-10-11T10:35:52.171Z",
-      "updatedAt": "2026-10-13T10:41:21.300Z",
-      "qualityScore": 100,
-      "issues": []
+      "createdAt": "2026-10-11T13:11:22.071Z",
+      "updatedAt": "2026-10-11T13:11:22.071Z",
+      "qualityScore": 75,
+      "issues": [
+        {
+          "code": "MISSING_DESCRIPTION",
+          "label": "Missing product description",
+          "severity": "high",
+          "penalty": 25
+        }
+      ]
     }
   ],
   "proposals": [
     {
-      "id": "prop_bbe1e07d",
-      "productId": "prod_1",
-      "productName": "Aurora Smart Ambient LED Strip (5M)",
-      "sku": "AUR-LGT-5M",
-      "currentScore": 65,
+      "id": "prop_dfddf587",
+      "productId": "prod_4",
+      "productName": "HyperCharge 65W GaN Dual-Port Travel Charger",
+      "sku": "PWR-GAN-65W",
+      "currentScore": 75,
       "projectedScore": 100,
       "changes": {
-        "description": "The Aurora Smart Ambient LED Strip (5M) is engineered to deliver exceptional performance and reliability. Crafted from premium materials to exacting standards, it offers superior functionality, modern aesthetics, and intuitive usability suited for everyday lifestyle and professional demands.",
-        "attributes": [
-          {
-            "name": "Build Quality",
-            "options": [
-              "Premium High-Durability Materials"
-            ]
-          },
-          {
-            "name": "Warranty",
-            "options": [
-              "1-Year Comprehensive Manufacturer Warranty"
-            ]
-          },
-          {
-            "name": "Standards",
-            "options": [
-              "CE, FCC, RoHS Certified"
-            ]
-          }
-        ]
+        "description": "Engineered with next-generation Gallium Nitride (GaN III) semiconductors, the HyperCharge 65W GaN Dual-Port Travel Charger delivers ultra-efficient, high-speed power delivery in a compact pocket footprint. Dual-port architecture supports simultaneous laptop and smartphone charging with intelligent temperature monitoring and universal voltage compatibility (100-240V)."
       },
-      "reasoning": "Generated tailored e-commerce product description. Structured standard e-commerce specifications and warranty attributes.",
-      "status": "approved",
-      "createdAt": "2026-10-13T10:45:13.775Z",
-      "resolvedAt": "2026-10-13T10:45:13.778Z"
+      "reasoning": "Generated GaN charging product description emphasizing portability, safety protocols, and dual-port fast charging.",
+      "status": "pending",
+      "createdAt": "2026-10-13T13:51:04.683Z"
     },
     {
-      "id": "prop_30dc0a00",
+      "id": "prop_af4eb02d",
+      "productId": "prod_6",
+      "productName": "Quantum Pro Mechanical Keyboard RGB",
+      "sku": "KEY-MECH-PRO",
+      "currentScore": 50,
+      "projectedScore": 100,
+      "changes": {
+        "description": "Built for discerning typists and gamers alike, the Quantum Pro Mechanical Keyboard RGB features an aerospace-grade aluminum top plate, hot-swappable PCB, and sound-dampening silicone gaskets. Enjoy per-key RGB backlighting with dynamic software customization, seamless Bluetooth 5.1/2.4GHz wireless connectivity, and pre-lubed mechanical switches.",
+        "price": 129.99,
+        "regularPrice": 155.99
+      },
+      "reasoning": "Generated mechanical keyboard description highlighting gasket design, hot-swap PCB, and acoustics. Identified zero/invalid price. Suggested standard retail price of $129.99 based on category benchmarks.",
+      "status": "pending",
+      "createdAt": "2026-10-13T13:51:04.683Z"
+    },
+    {
+      "id": "prop_d24294d6",
+      "productId": "prod_8",
+      "productName": "Nordic Minimalist Solid Oak Coffee Table",
+      "sku": "FUR-TBL-OAK",
+      "currentScore": 75,
+      "projectedScore": 100,
+      "changes": {
+        "description": "Meticulously crafted from FSC-certified solid white oak, the Nordic Minimalist Solid Oak Coffee Table embodies timeless Scandinavian simplicity and craftsmanship. Finished with a durable organic matte lacquer resistant to daily spills and UV fading. Clean chamfered edge profiles and reinforced mortise-and-tenon joinery ensure generational durability."
+      },
+      "reasoning": "Generated Scandinavian furniture description highlighting sustainably sourced wood, craftsmanship, and finish.",
+      "status": "pending",
+      "createdAt": "2026-10-13T13:51:04.683Z"
+    },
+    {
+      "id": "prop_82f22635",
       "productId": "prod_3",
       "productName": "SonicPulse Active Noise Cancelling Earbuds",
       "sku": "AUD-EAR-ANC",
@@ -377,11 +408,11 @@
       },
       "reasoning": "Generated comprehensive audio e-commerce description with technical specifications, driver details, and battery life. Classified into \"Audio & Electronics\" based on acoustic product naming. Structured standard technical specifications (ANC, Battery Life, IPX rating).",
       "status": "approved",
-      "createdAt": "2026-10-13T10:41:07.478Z",
-      "resolvedAt": "2026-10-13T10:41:21.285Z"
+      "createdAt": "2026-10-13T13:51:04.670Z",
+      "resolvedAt": "2026-10-13T13:51:04.675Z"
     },
     {
-      "id": "prop_ec66497b",
+      "id": "prop_5ae0ecc1",
       "productId": "prod_4",
       "productName": "HyperCharge 65W GaN Dual-Port Travel Charger",
       "sku": "PWR-GAN-65W",
@@ -391,12 +422,13 @@
         "description": "Engineered with next-generation Gallium Nitride (GaN III) semiconductors, the HyperCharge 65W GaN Dual-Port Travel Charger delivers ultra-efficient, high-speed power delivery in a compact pocket footprint. Dual-port architecture supports simultaneous laptop and smartphone charging with intelligent temperature monitoring and universal voltage compatibility (100-240V)."
       },
       "reasoning": "Generated GaN charging product description emphasizing portability, safety protocols, and dual-port fast charging.",
-      "status": "approved",
-      "createdAt": "2026-10-13T10:41:07.478Z",
-      "resolvedAt": "2026-10-13T10:41:21.290Z"
+      "status": "rejected",
+      "createdAt": "2026-10-13T13:51:04.670Z",
+      "rejectionReason": "Test rejection",
+      "resolvedAt": "2026-10-13T13:51:04.678Z"
     },
     {
-      "id": "prop_5fc295de",
+      "id": "prop_09e28b6b",
       "productId": "prod_5",
       "productName": "HydroFlow Insulated Stainless Steel Bottle (1L)",
       "sku": "HYD-BTL-1L",
@@ -426,44 +458,147 @@
         ]
       },
       "reasoning": "Classified into \"Sports & Outdoor Hydration\" based on drinkware profile. Added bottle specifications (Capacity, Thermal Retention, Material).",
-      "status": "approved",
-      "createdAt": "2026-10-13T10:41:07.478Z",
-      "resolvedAt": "2026-10-13T10:41:21.294Z"
-    },
-    {
-      "id": "prop_ddf696db",
-      "productId": "prod_6",
-      "productName": "Quantum Pro Mechanical Keyboard RGB",
-      "sku": "KEY-MECH-PRO",
-      "currentScore": 50,
-      "projectedScore": 100,
-      "changes": {
-        "description": "Built for discerning typists and gamers alike, the Quantum Pro Mechanical Keyboard RGB features an aerospace-grade aluminum top plate, hot-swappable PCB, and sound-dampening silicone gaskets. Enjoy per-key RGB backlighting with dynamic software customization, seamless Bluetooth 5.1/2.4GHz wireless connectivity, and pre-lubed mechanical switches.",
-        "price": 129.99,
-        "regularPrice": 155.99
-      },
-      "reasoning": "Generated mechanical keyboard description highlighting gasket design, hot-swap PCB, and acoustics. Identified zero/invalid price. Suggested standard retail price of $129.99 based on category benchmarks.",
-      "status": "approved",
-      "createdAt": "2026-10-13T10:41:07.478Z",
-      "resolvedAt": "2026-10-13T10:41:21.297Z"
-    },
-    {
-      "id": "prop_460ce15b",
-      "productId": "prod_8",
-      "productName": "Nordic Minimalist Solid Oak Coffee Table",
-      "sku": "FUR-TBL-OAK",
-      "currentScore": 75,
-      "projectedScore": 100,
-      "changes": {
-        "description": "Meticulously crafted from FSC-certified solid white oak, the Nordic Minimalist Solid Oak Coffee Table embodies timeless Scandinavian simplicity and craftsmanship. Finished with a durable organic matte lacquer resistant to daily spills and UV fading. Clean chamfered edge profiles and reinforced mortise-and-tenon joinery ensure generational durability."
-      },
-      "reasoning": "Generated Scandinavian furniture description highlighting sustainably sourced wood, craftsmanship, and finish.",
-      "status": "approved",
-      "createdAt": "2026-10-13T10:41:07.478Z",
-      "resolvedAt": "2026-10-13T10:41:21.300Z"
+      "status": "pending",
+      "createdAt": "2026-10-13T13:51:04.670Z"
     }
   ],
   "logs": [
+    {
+      "id": "log_3b702267",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791899464665). Assigned mock Woo ID #9136.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_7cc82c98",
+        "wooId": 9136,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791899464665",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T13:51:04.689Z"
+    },
+    {
+      "id": "log_92ffd062",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 3 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 3
+      },
+      "timestamp": "2026-10-13T13:51:04.684Z"
+    },
+    {
+      "id": "log_288c0fb6",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions, suggest corrections\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T13:51:04.680Z"
+    },
+    {
+      "id": "log_39775ef6",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 5 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 5
+      },
+      "timestamp": "2026-10-13T13:51:04.672Z"
+    },
+    {
+      "id": "log_cd4b8461",
+      "action": "WOOCOMMERCE_SYNC_DEMO",
+      "details": "[DEMO MODE] Simulated WooCommerce sync for \"Automated Test Headset\" (SKU: TEST-SKU-1791897065006). Assigned mock Woo ID #3995.",
+      "status": "info",
+      "metadata": {
+        "productId": "prod_e6946a87",
+        "wooId": 3995,
+        "isDemo": true,
+        "payload": {
+          "name": "Automated Test Headset",
+          "type": "simple",
+          "regular_price": "89.99",
+          "description": "High-fidelity closed-back studio monitoring headphones with 45mm drivers.",
+          "short_description": "",
+          "sku": "TEST-SKU-1791897065006",
+          "manage_stock": true,
+          "stock_quantity": 0,
+          "stock_status": "instock",
+          "status": "draft",
+          "categories": [
+            {
+              "name": "Audio"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Impedance",
+              "visible": true,
+              "options": [
+                "38 Ohms"
+              ]
+            }
+          ]
+        }
+      },
+      "timestamp": "2026-10-13T13:11:05.027Z"
+    },
+    {
+      "id": "log_02a9cc46",
+      "action": "AI_AGENT_PROMPT",
+      "details": "User invoked AI Agent: \"Audit the catalogue, identify products with missing descriptions, suggest corrections\"",
+      "status": "info",
+      "metadata": {
+        "provider": "gemini"
+      },
+      "timestamp": "2026-10-13T13:11:05.021Z"
+    },
+    {
+      "id": "log_52da00be",
+      "action": "AI_PROPOSALS_GENERATED",
+      "details": "Product Catalogue AI Agent staged 1 improvement proposals awaiting human approval.",
+      "status": "info",
+      "metadata": {
+        "proposalCount": 1
+      },
+      "timestamp": "2026-10-13T13:11:05.016Z"
+    },
+    {
+      "id": "log_32073e65",
+      "action": "WOOCOMMERCE_SYNC_FAILED",
+      "details": "Product \"Zero Price Test\" cannot be synced: Missing name, SKU, or valid price.",
+      "status": "error",
+      "metadata": {
+        "productId": "prod_8151e8fd"
+      },
+      "timestamp": "2026-10-13T11:29:30.496Z"
+    },
     {
       "id": "log_d6300b7b",
       "action": "WOOCOMMERCE_SYNC_DEMO",
